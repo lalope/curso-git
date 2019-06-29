@@ -1,1 +1,3 @@
 Só pra ter alguma coisa para a branch "branchteste"
+
+criou uns caracteres estranhos (ver "s?" acima)
