@@ -1,1 +1,4 @@
 Só pra ter alguma coisa para a branch "branchteste"
+
+Engraçado, no windows o "Só" acima ficou com uns caracteres (tailandeses????)
+
