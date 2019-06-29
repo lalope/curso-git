@@ -12,3 +12,8 @@ Engraçado, no windows o "Só" acima ficou com uns caracteres (tailandeses????)
 
 
 Animal, era pra arrumar isso, não deixar os comentários do git!!!
+
+
+====================
+Rodapé
+
