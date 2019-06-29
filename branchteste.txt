@@ -3,6 +3,7 @@ Título
 
 Só pra ter alguma coisa para a branch "branchteste"
 
+Mais alterações para botar fogo no barraco
 criou uns caracteres estranhos (ver "s?" acima)
 ===========
 Engraçado, no windows o "Só" acima ficou com uns caracteres (tailandeses????)
