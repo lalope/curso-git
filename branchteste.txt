@@ -1,3 +1,8 @@
 Só pra ter alguma coisa para a branch "branchteste"
 
+<<<<<<< HEAD
 criou uns caracteres estranhos (ver "s?" acima)
+=======
+Engraçado, no windows o "Só" acima ficou com uns caracteres (tailandeses????)
+
+>>>>>>> a42191d2e65f737ba269ddba19150fa1ccf5c9e4
