@@ -3,8 +3,10 @@ Título
 
 Só pra ter alguma coisa para a branch "branchteste"
 
-criou uns caracteres estranhos (ver "s?" acima)
-===========
+No nano as coisas realmente são mais complicadas.
+
+Criou uns caracteres estranhos (ver "s?" acima)
+========================
 Engraçado, no windows o "Só" acima ficou com uns caracteres (tailandeses????)
 
 
